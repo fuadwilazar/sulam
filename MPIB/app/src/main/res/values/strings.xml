@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MPIB</string>
+
+    <string name="welcome_to_mpib">Welcome to MPIB</string>
+    <string name="board_name">Malaysian Pineapple Industry Board</string>
+    <string name="search_hint">Search news, entrepreneurs, announcements...</string>
+    <string name="view_all">View All</string>
+    <string name="latest_news_header">Latest News &amp; Updates</string>
+
+    <string name="news_tag_program">Program</string>
+    <string name="news_title">MPIB Launches New Pineapple Variety Development Program</string>
+    <string name="news_desc">Malaysian Pineapple Industry Board announces innovative program to support local farmers in developing new pineapple varieties...</string>
+    <string name="news_date">28 Nov 2025</string>
+    <string name="read_more">Read More</string>
+
+    <!-- Stock Page Strings -->
+    <string name="stock_header_title">Stock Availability</string>
+    <string name="stock_header_subtitle">Real-time inventory across all farms</string>
+    <string name="total_available_label">Total Available (kg)</string>
+    <string name="fresh_harvests_label">Fresh Harvests</string>
+    <string name="low_stock_label">Low Stock</string>
+    <string name="filter_all">All Available</string>
+    <string name="filter_fresh">Fresh Today</string>
+    <string name="filter_low">Low Stock</string>
+    <string name="tag_fresh_harvest">Fresh Harvest Today</string>
+    <string name="tag_available">Available</string>
+    <string name="tag_low_stock">Low Stock</string>
+    <string name="contact_farmer">Contact Farmer</string>
+    <string name="out_of_stock_header">Out of Stock (Hidden from buyers)</string>
+    <string name="out_of_stock_tag">Out of Stock</string>
+
+    <string name="feature_entrepreneurs">Entrepreneurs</string>
+    <string name="feature_announcements">Announcements</string>
+    <string name="feature_resources">Resources</string>
+    <string name="feature_contact">Contact</string>
+
+    <string name="live_stock_updates">Live Stock Updates</string>
+    <string name="harvest_count">3 fresh harvests available today</string>
+    <string name="stock_available">Available</string>
+    <string name="avg_price_label">Avg Price</string>
+
+    <string name="stock_quantity">695kg</string>
+    <string name="stock_price">RM 2.50</string>
+
+    <string name="notification_desc">Notifications</string>
+    <string name="search_icon_desc">Search Icon</string>
+    <string name="entrepreneurs_desc">Entrepreneurs feature icon</string>
+    <string name="announcements_desc">Announcements feature icon</string>
+    <string name="resources_desc">Resources feature icon</string>
+    <string name="contact_desc">Contact feature icon</string>
+    <string name="box_icon_desc">Live stock box icon</string>
+    <string name="chart_icon_desc">Stock trend chart icon</string>
+
+    <string name="news_image_desc">Latest news image background</string>
+
+    <!-- Info Page Strings -->
+    <string name="info_header_title">Information Center</string>
+    <string name="info_header_subtitle">Resources and contact information</string>
+
+    <string name="about_mpib_title">About MPIB</string>
+    <string name="about_mpib_desc">The Malaysian Pineapple Industry Board (MPIB) is a statutory body established to develop and promote the pineapple industry in Malaysia. We support farmers, entrepreneurs, and stakeholders in the pineapple supply chain.\n\nOur mission is to enhance the competitiveness and sustainability of the Malaysian pineapple industry through innovation, quality improvement, and market development.</string>
+
+    <string name="resources_title">Resources &amp; Documents</string>
+    <string name="guide_title">Pineapple Farming Guide</string>
+    <string name="guide_desc">Complete guide to pineapple cultivation in Malaysia</string>
+    <string name="reports_title">Industry Reports</string>
+    <string name="reports_desc">Annual reports and statistics on pineapple industry</string>
+    <string name="tutorials_title">Video Tutorials</string>
+    <string name="tutorials_desc">Learn from expert farmers and agronomists</string>
+    <string name="website_title">Official Website</string>
+    <string name="website_desc">Visit MPIB official website for more information</string>
+
+    <string name="follow_us_title">Follow Us</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">YouTube</string>
+
+    <string name="contact_us_title">Contact Us</string>
+    <string name="address_label">Address</string>
+    <string name="address_value">Malaysian Pineapple Industry Board\nWisma MPIB, Jalan Dato Onn\n50480 Kuala Lumpur, Malaysia</string>
+    <string name="phone_label">Phone</string>
+    <string name="phone_value">+60 3-1234 5678</string>
+    <string name="email_label">Email</string>
+    <string name="email_value">info@mpib.gov.my</string>
+</resources>
